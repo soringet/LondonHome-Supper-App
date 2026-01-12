@@ -1,0 +1,7 @@
+{
+  "name": "LondonHome Super-App",
+  "description": "A comprehensive home services platform for London, offering cleaning, handyman, and at-home beauty services with a built-in AI concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
